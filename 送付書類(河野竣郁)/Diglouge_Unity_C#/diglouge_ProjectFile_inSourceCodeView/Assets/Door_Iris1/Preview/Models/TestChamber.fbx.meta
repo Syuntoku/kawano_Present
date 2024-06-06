@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 226836882623c411d9a3d6e6bb8d8183
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ClampStand
+    100002: Ramp
+    100004: RoofLights
+    100006: //RootNode
+    100008: ClampStand.Collider
+    100010: Ramp.Collider
+    100012: RoofLights.Emitters
+    100014: TestChamber.Collider
+    100016: Lever
+    100018: Plane.001
+    100020: Switch
+    100022: Switch.Lever
+    100024: Switch.Rig
+    100026: TestChamber
+    100028: SpotLights
+    400000: ClampStand
+    400002: Ramp
+    400004: RoofLights
+    400006: //RootNode
+    400008: ClampStand.Collider
+    400010: Ramp.Collider
+    400012: RoofLights.Emitters
+    400014: TestChamber.Collider
+    400016: Lever
+    400018: Plane.001
+    400020: Switch
+    400022: Switch.Lever
+    400024: Switch.Rig
+    400026: TestChamber
+    400028: SpotLights
+    2100000: ConcreteRoof
+    2100002: ConcreteWalls
+    2100004: PlasticTube
+    2100006: MetalRamp
+    2100008: RoofLight
+    2100010: Collider
+    2100012: RoofLight.Emitter
+    2100014: Windows
+    2100016: NeonRube
+    2300000: ClampStand
+    2300002: Ramp
+    2300004: RoofLights
+    2300006: //RootNode
+    2300008: ClampStand.Collider
+    2300010: Ramp.Collider
+    2300012: RoofLights.Emitters
+    2300014: TestChamber.Collider
+    2300016: Plane.001
+    2300018: Switch
+    2300020: Switch.Lever
+    2300022: TestChamber
+    2300024: SpotLights
+    3300000: ClampStand
+    3300002: Ramp
+    3300004: RoofLights
+    3300006: //RootNode
+    3300008: ClampStand.Collider
+    3300010: Ramp.Collider
+    3300012: RoofLights.Emitters
+    3300014: TestChamber.Collider
+    3300016: Plane.001
+    3300018: Switch
+    3300020: Switch.Lever
+    3300022: TestChamber
+    3300024: SpotLights
+    4300000: TestChamber
+    4300002: RoofLights
+    4300004: Ramp
+    4300006: ClampStand
+    4300008: TestChamber.Collider
+    4300010: RoofLights.Emitters
+    4300012: Ramp.Collider
+    4300014: ClampStand.Collider
+    4300016: Switch
+    4300018: Switch.Lever
+    4300020: Plane.001
+    4300022: SpotLights
+    6400000: ClampStand
+    6400002: Ramp
+    6400004: RoofLights
+    6400006: //RootNode
+    7400000: Stop
+    7400002: Open
+    7400004: Close
+    9500000: //RootNode
+    13700000: Switch.Lever
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Collider
+    second: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteRoof
+    second: {fileID: 2100000, guid: ec4c38f9beaa04e0ba7c0605410742ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteWalls
+    second: {fileID: 2100000, guid: c78cb6ca7b184458c969090ade76e553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalRamp
+    second: {fileID: 2100000, guid: 3c151b37852e64bf986e0f64322577b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NeonRube
+    second: {fileID: 2100000, guid: 37e80715c637d4fba8b37adc9b6433f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticTube
+    second: {fileID: 2100000, guid: 615d88b0c9d4b442eac14985fdb6ce68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofLight
+    second: {fileID: 2100000, guid: 459aa5c8b9f18486986f1a0d2a3e6907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofLight.Emitter
+    second: {fileID: 2100000, guid: 7a4c0dc17bc0d4050958cee52bde4d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows
+    second: {fileID: 2100000, guid: 4e8fe267528ee4fb5ae14fc13ab1abf4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: door_iris1
+  assetBundleVariant: 
